@@ -1,14 +1,22 @@
-# Welcome to your CDK TypeScript project!
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-This is a blank project for TypeScript development with CDK.
+# Título
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Introdução ao seu projeto. Apresentado por [Seu nome][1].
 
-## Useful commands
+> __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
 
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
+## Instalação
+
+1. Use este template
+2. Edite o README.md
+3. Adicione seus arquivos
+
+## Expert
+
+| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
+| :-: |
+|[Creator][1]|
+
+
+[1]: https://seusite.com.br
